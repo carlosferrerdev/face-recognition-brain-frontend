@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "e9f1ce1cdf5749788c29",
+    "revision": "a90b1dc883c147b79fee",
     "url": "/face-recognition-brain-frontend/static/css/main.319260a2.chunk.css"
   },
   {
-    "revision": "e9f1ce1cdf5749788c29",
-    "url": "/face-recognition-brain-frontend/static/js/main.e9f1ce1c.chunk.js"
+    "revision": "a90b1dc883c147b79fee",
+    "url": "/face-recognition-brain-frontend/static/js/main.a90b1dc8.chunk.js"
   },
   {
     "revision": "462fada37566201ee509",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/face-recognition-brain-frontend/static/js/runtime~main.e285f563.js"
   },
   {
-    "revision": "28f7521dd5958b10f970ea5a5e42caa0",
+    "revision": "f5caa797fd51885c15d43e1ea5cc200d",
     "url": "/face-recognition-brain-frontend/index.html"
   }
 ];
